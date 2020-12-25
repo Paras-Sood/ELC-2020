@@ -21,7 +21,7 @@ public class ZombieMove : MonoBehaviour
  void Update () {
     // float x = Input.GetAxis("Horizontal") * Time.deltaTime * speed;
     // float z = Input.GetAxis("Vertical") * Time.deltaTime * speed;
-    int a=1;
+    // int a=1;
     // while True:
     // {
         transform.Translate(0.09f, 0, 0);
